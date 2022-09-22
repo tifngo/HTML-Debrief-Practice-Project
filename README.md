@@ -2,6 +2,7 @@
 Practice project assignment from Generation USA during class (~40 mins).
 
 For this project, you will make an informational HTML website that has:
+
 A header - will have a heading element and 2 or 3 subheading elements. The header element goes inside your body tag.
 
 The main container: that will have different section elements.
